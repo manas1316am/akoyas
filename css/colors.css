@@ -1,0 +1,42 @@
+.text-yellow {
+  color: var(--yellow);
+}
+.text-yellow-green {
+  color: var(--yello-green);
+}
+.text-green {
+  color: var(--green);
+}
+.text-blue-green {
+  color: var(--blue-green);
+}
+.text-blue {
+  color: var(--blue);
+}
+.text-blue-violet {
+  color: var(--blue-violet);
+}
+.text-violet {
+  color: var(--violet);
+}
+.text-red-violet {
+  color: var(--red-violet);
+}
+.text-red {
+  color: var(--red);
+}
+.text-red-orange {
+  color: var(--red-orange);
+}
+.text-yellow-orange {
+  color: var(--yellow-orange);
+}
+.text-black {
+  color: var(--black);
+}
+.text-white {
+  color: var(--white);
+}
+.text-grey {
+  color: var(--grey);
+}

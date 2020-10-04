@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+.clck {
+  width: 8vw;
+  height: 6vh;
+  text-align: center;
+  border: none;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+}
+
+/* primary btn -> blue  */
+.primary {
+  background-color: var(--primary-blue);
+}
+.primary:hover {
+  background-color: #3841c5fd;
+  transition: all 0.2s ease-in;
+}
+/* secondary color -> grey */
+.secondary {
+  background-color: var(--grey);
+}
+.secondary:hover {
+  background-color: #585858;
+  transition: all 0.2s ease-in;
+}
+/* green color -> good */
+.good {
+  background-color: var(--green);
+}
+.good:hover {
+  background-color: #014b01;
+  transition: all 0.2s ease-in;
+}
+/* red color btn -> bad */
+.bad {
+  background-color: var(--red);
+}
+.bad:hover {
+  background-color: #c50303;
+  transition: all 0.2s ease-in;
+}
+/* yellow-color-btn  ->  beware */
+.beware {
+  background-color: var(--yellow);
+  color: black;
+}
+.beware:hover {
+  background-color: #a07b0e;
+  color: white;
+  transition: all 0.2s ease-in;
+}
+/* light btn -> white */
+.light {
+  background-color: var(--white);
+  color: black;
+}
+.light:hover {
+  background-color: #cecece;
+  transition: all 0.2s ease-in;
+  color: black;
+}
+/* dark btn -> black */
+.dark {
+  background-color: var(--black);
+}
+.dark:hover {
+  background-color: #3d3d3d;
+  color: white;
+  transition: all 0.2s ease-in;
+}
